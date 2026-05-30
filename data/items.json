@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "M-88 Tactical Recon Drone",
+    "description": "Stealth-coated micro-UAV with thermal imaging and 24-hour loiter time. Encrypted long-range link included.",
+    "price": 12500.00,
+    "category": "Surveillance",
+    "image": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "2",
+    "name": "Titan-V Exoskeleton Suit",
+    "description": "Hydraulic-assisted power armor increasing lift capacity by 500%. Features integrated ballistic plating and HUD.",
+    "price": 85000.00,
+    "category": "Armor",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "3",
+    "name": "Night-Stalker Gen-4 NVGs",
+    "description": "Quad-tube panoramic night vision with white phosphor technology. Depth perception optimized for close-quarters battle.",
+    "price": 14200.00,
+    "category": "Optics",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "4",
+    "name": "Aegis Portable Jammer",
+    "description": "Wide-spectrum electronic warfare device. Disrupts all R/C and cellular signals in a 200m radius.",
+    "price": 3200.00,
+    "category": "Electronic",
+    "image": "https://images.unsplash.com/photo-1551808198-b30a6e6339a7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "5",
+    "name": "Sentinel Ballistic Shield",
+    "description": "Level IV multi-hit capable foldable shield. Integrated 2500 lumen blinding strobe light.",
+    "price": 2800.00,
+    "category": "Defense",
+    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "6",
+    "name": "Vanguard Comms Array",
+    "description": "Satellite-linked hardened radio system. Frequency hopping technology ensures jam-proof communication.",
+    "price": 5400.00,
+    "category": "Comms",
+    "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&q=80&w=800"
+  }
+]
