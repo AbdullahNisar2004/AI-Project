@@ -47,8 +47,9 @@ export function Chatbot() {
       if (data.error) throw new Error(data.error)
 
       setMessages((prev) => [...prev, { role: 'assistant', content: data.content }])
-    } catch (_error) {
-      setMessages((prev) => [...prev, { role: 'assistant', content: 'Signal interference detected. Please retry transmission.' }])
+    } catch (error: any) {
+      const errorMessage = error.message || 'Signal interference detected. Please retry transmission.'
+      setMessages((prev) => [...prev, { role: 'assistant', content: `[SYSTEM ERROR]: ${errorMessage}` }])
     } finally {
       setIsLoading(false)
     }
