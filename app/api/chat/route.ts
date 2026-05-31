@@ -40,7 +40,7 @@ export async function POST(req: Request) {
 
     // Create model with system instructions
     const modelWithSystem = genAI.getGenerativeModel({ 
-      model: 'models/gemini-1.5-flash',
+      model: 'models/gemini-2.5-flash-lite',
       systemInstruction: {
         role: 'system',
         parts: [{ text: SYSTEM_PROMPT }]

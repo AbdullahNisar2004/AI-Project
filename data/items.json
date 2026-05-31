@@ -24,12 +24,12 @@
     "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80&w=800"
   },
   {
-    "id": "4",
-    "name": "Aegis Portable Jammer",
-    "description": "Wide-spectrum electronic warfare device. Disrupts all R/C and cellular signals in a 200m radius.",
-    "price": 3200.00,
-    "category": "Electronic",
-    "image": "https://images.unsplash.com/photo-1551808198-b30a6e6339a7?auto=format&fit=crop&q=80&w=800"
+  "id": "4",
+  "name": "Aegis Portable Jammer",
+  "description": "Wide-spectrum electronic warfare device. Disrupts all R/C and cellular signals in a 200m radius.",
+  "price": 3200.00,
+  "category": "Electronic",
+  "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=800"
   },
   {
     "id": "5",
@@ -46,5 +46,29 @@
     "price": 5400.00,
     "category": "Comms",
     "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&q=80&w=800"
-  }
+  },
+  {
+  "id": "7",
+  "name": "Specter Recon Drone",
+  "description": "Lightweight surveillance drone equipped with night vision and real-time video transmission.",
+  "price": 1850.00,
+  "category": "Electronic",
+  "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?auto=format&fit=crop&q=80&w=800"
+},
+{
+  "id": "8",
+  "name": "Titan Tactical Tablet",
+  "description": "Rugged military-grade tablet designed for field operations with enhanced durability and GPS tracking.",
+  "price": 2400.00,
+  "category": "Electronic",
+  "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&q=80&w=800"
+},
+{
+  "id": "9",
+  "name": "Falcon Communication Hub",
+  "description": "Portable communications terminal providing secure voice and data connectivity in remote environments.",
+  "price": 2950.00,
+  "category": "Electronic",
+  "image": "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?auto=format&fit=crop&q=80&w=800"
+}
 ]
